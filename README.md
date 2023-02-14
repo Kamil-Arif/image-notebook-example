@@ -18,4 +18,4 @@ Given that, this is what you need to do:
 
  - Enter the copied link as the path to the image
 
-Since the image is on GitHub's CDN, it will load like any other Web Image, hopefulyl without a hitch.
+Since the image is on GitHub's CDN, it will load like any other Web Image, hopefully without a hitch.
